@@ -23,7 +23,7 @@ Possible issues so far
 - life hours and failure modes and the hours the failure occured will be updated here.
 
 Klipper Control & wiring PWM
-Control can ben with the supplied POT or by PWM input (1khz-10khz range)
+Control can be with the supplied POT or by replacing it with a PWM input (1khz-10khz range)
 Expect PWM speed range to be around 10-99% but you might be able to get slower depending on your PWM signal and the driver
 
 -Remove the supplied Pot control and wire up the pot GRN to the fan port ground and the PWM signal to the fan positive, 5v is not used and the wire can be removed
