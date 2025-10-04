@@ -15,7 +15,7 @@ Wire/Plug keep outzone:
 Not facted into COM values, acts as a guide to ensure you still have space for the wiring to the PCB, if not hard wiring add more space as required for the type of plug you plan to use.
 
 NOTES:
-These fans are LOUD and pull a lot of power (24v 130 5.5A) at full RPM for this motor driver combo
+These fans are LOUD and pull a lot of power (24v 130W 5.5A) at full RPM for this motor driver combo
 High RPM Metal fan = will eat fingers, tools, bolts alike with stunning results, never run them with loose items around that could be sucked/fall into the blades while they are running
 
 Possible issues so far
