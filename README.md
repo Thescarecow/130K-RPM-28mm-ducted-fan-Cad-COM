@@ -1,6 +1,6 @@
 # 130K-RPM-28mm-ducted-fan-Cad-COM  
 
-![Alt text]([images/example.png](https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM/blob/main/Images/130k%20RPM%20Fan.png))
+![Alt text]((https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM/blob/main/Images/130k%20RPM%20Fan.png))
 
 
 Basic geometry shape and COM for a 28mm 130k RPM ducted fan for use in toolhead designs, also includes keep out space for direct wiring, allow for more keep outspace if using plugs.
