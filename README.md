@@ -30,9 +30,9 @@ Expect PWM speed range to be around 10-99% but you might be able to get slower d
 -Remove the supplied Pot control and wire up the pot GRN to the fan port ground and the PWM signal to the fan positive, 5v is not used and the wire can be removed
 -Consider flyback or other voltage feedback protect between the fan driver and your MCU as you feel is required.
 
-Example Klipper code to control them via 5V PWM from a fan port
-fan_generic ChFan   <--- change this to be fan if you want it controlable via default slicer settings which look for the fan
+Example Klipper code to control them via 5V PWM from a fan port  
 
+[fan_generic ChFan]   <--- change this to be [fan] if you want it controlable via default slicer settings which look for the fan  
 pin: put the fan port pin as per your MCU here, ensure it is set to 5v output  
 max_power:1.0  
 cycle_time: 0.020  
