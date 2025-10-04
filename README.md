@@ -19,7 +19,7 @@ These fans are LOUD and pull a lot of power (24v 130W 5.5A) at full RPM for this
 High RPM Metal fan = will eat fingers, tools, bolts alike with stunning results, never run them with loose items around that could be sucked/fall into the blades while they are running
 
 Possible issues so far
-- Biggest question still unanswered for these fans is the life(hours of use) at elivated chamber temperatures, the fan disk is alum and the hub is steel with just a pressfit holding them together. 2x difference in CTE (coefficent of Thermal Expansion) means that at 80°c+ temperatures there is a risk it stops being a pressfit and more of a light tight leading the disk and shaft to seperate.
+- Biggest question still unanswered for these fans is the life(hours of use) at elivated chamber temperatures, the fan disk is alum and the hub is steel with just a pressfit holding them together. 2x difference in CTE (coefficent of Thermal Expansion) means that at 80°c+ temperatures there is a risk it stops being a pressfit, leading the disk and shaft to seperate.
 - life hours and failure modes and the hours the failure occured will be updated here.
 
 Klipper Control & wiring PWM
