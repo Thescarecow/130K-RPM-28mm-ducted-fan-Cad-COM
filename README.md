@@ -1,4 +1,8 @@
-# 130K-RPM-28mm-ducted-fan-Cad-COM
+# 130K-RPM-28mm-ducted-fan-Cad-COM  
+
+![Alt text]([images/example.png](https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM/blob/main/Images/130k%20RPM%20Fan.png))
+
+
 Basic geometry shape and COM for a 28mm 130k RPM ducted fan for use in toolhead designs, also includes keep out space for direct wiring, allow for more keep outspace if using plugs.
 Based on fans sorced from the following Aliexpress store due to the fact that the driver board is decoupled from the motor and is of a larger size then intergrated options allowing for the driver to be kept outside of the chamber as they can get quite warm.
 
