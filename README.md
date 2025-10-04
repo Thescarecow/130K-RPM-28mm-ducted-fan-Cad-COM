@@ -32,6 +32,7 @@ Expect PWM speed range to be around 10-99% but you might be able to get slower d
 
 Example Klipper code to control them via 5V PWM from a fan port
 fan_generic ChFan   <--- change this to be fan if you want it controlable via default slicer settings which look for the fan
+
 pin: put the fan port pin as per your MCU here, ensure it is set to 5v output
 max_power:1.0
 cycle_time: 0.020
